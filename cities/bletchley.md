@@ -10,10 +10,10 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: england
-    pub_name: "Captain Ridley's Shooting Party"
-    description: " which is on Queensway"
-    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/buckinghamshire/captain-ridleys-shooting-party-milton-keynes
-    lon: -0.7262748
-    lat: 51.9957286
-hiatus: False
+    pub_name: "TBC"
+    description: " "
+    url: 
+    lon: 
+    lat: 
+hiatus: True
 ---
