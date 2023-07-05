@@ -1,7 +1,7 @@
 ---
 layout: city                                           
 city_name: Bletchley
-jam_name: Bletchley MathsJam
+jam_name: Bletchley & Milton Keynes MathsJam
 email: bletchley@mathsjam.com
 twitter: BletchleyJam
 organiser:
@@ -9,10 +9,10 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: england
-    pub_name: "The Eight Belles"
-    description: " which is on Buckingham Road"
-    url: http://www.eightbellesbletchley.co.uk/
-    lon: -0.7438206
-    lat: 51.9927781
+    pub_name: "Brewhouse & Kitchen"
+    description: " which is in Central Milton Keynes"
+    url: [https://www.brewhouseandkitchen.com/venue/milton-keynes/]
+    lon: -0.7494258846607847
+    lat: 52.0442186141741
 hiatus: False
 ---
