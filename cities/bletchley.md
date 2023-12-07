@@ -9,11 +9,11 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Crown Inn
-    description: ' in Stony Stratford'
-    url: https://thecrownstonystratford.co.uk/
-    lon: -0.8539893
-    lat: 52.0558095
+    pub_name: The Ship Ashore
+    description: ' in Willen, Milton Keynes'
+    url: https://www.emberinns.co.uk/nationalsearch/southeast/the-ship-ashore-milton-keynes
+    lon: -0.7318683
+    lat: 52.0629070
 hiatus: false
 links:
     twitter:
