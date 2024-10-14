@@ -15,6 +15,8 @@ location:
     lon: -0.762622
     lat: 52.038803
 hiatus: false
+changed_dates:
+    - 2024-11-12
 links:
     twitter:
         text: '@BletchleyJam'
